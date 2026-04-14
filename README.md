@@ -23,6 +23,6 @@ This project demonstrates how to use **Streamlit widgets** (`st.number_input`, `
 1. Clone or download this repository.  
 2. Create and activate a virtual environment:
    ```bash
-   python -m venv venv
-   venv\Scripts\activate   # On Windows
+   python -m venv .venv
+   .venv\Scripts\activate   # On Windows
    source venv/bin/activate # On macOS/Linux
